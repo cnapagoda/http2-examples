@@ -2,7 +2,7 @@
 ##How to build this project
 
 ```sh
-$ git clone [git-repo-url]
+$ git clone https://github.com/cnapagoda/http2-examples.git
 $ cd RESTfulAPI
 $ mvn clean install
 ```
